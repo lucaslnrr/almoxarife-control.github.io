@@ -1,7 +1,7 @@
 {
   "name": "invoice-generator",
   "version": "0.2.1",
-  "private": true,
+  "private": false,
   "homepage": "https://lucaslnrr.github.io/almoxarife-control.github.io/",
   "dependencies": {
     "@react-pdf/renderer": "^2.0.18",
